@@ -65,7 +65,7 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'usagiSidebar',
+          sidebarId: 'tutorialSidebar',
           position: 'left',
           label: '乌萨奇...?',
         },
